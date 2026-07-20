@@ -22,11 +22,14 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/oneul0"><img src="https://avatars.githubusercontent.com/oneul0" width="150px;" alt="oneul0"></a></td>
+    <td align="center"><a href="https://github.com/yeonju73"><img src="https://avatars.githubusercontent.com/yeonju73" width="150px;" alt="yeonju73"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/oneul0"><b>김기훈</b></a></td>
+    <td align="center"><a href="https://github.com/yeonju73"><b>박연주</b></a></td>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"> 
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"> 
   </tr>
 </table>
