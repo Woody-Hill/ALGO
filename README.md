@@ -28,6 +28,7 @@
   </tr>
   <tr>
     <td align="center" data-languages="java">Java</td>
+    <td align="center" data-languages="java">Java</td>
   </tr>
 </table>
  
