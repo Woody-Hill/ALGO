@@ -24,13 +24,28 @@
     <td align="center"><a href="https://github.com/oneul0"><img src="https://avatars.githubusercontent.com/oneul0" width="150px;" alt="oneul0"></a></td>
     <td align="center"><a href="https://github.com/yeonju73"><img src="https://avatars.githubusercontent.com/yeonju73" width="150px;" alt="yeonju73"></a></td>
     <td align="center"><a href="https://github.com/Sangyoon-Shin"><img src="https://avatars.githubusercontent.com/Sangyoon-Shin" width="150px;" alt="Sangyoon-Shin"></a></td>
+    <td align="center"><a href="https://github.com/BBZJUN"><img src="https://avatars.githubusercontent.com/BBZJUN" width="150px;" alt="BBZJUN"></a></td>
+    <td align="center"><a href="https://github.com/yonseeee"><img src="https://avatars.githubusercontent.com/yonseeee" width="150px;" alt="yonseeee"></a></td>
+    <td align="center"><a href="https://github.com/ye0ngeun"><img src="https://avatars.githubusercontent.com/ye0ngeun" width="150px;" alt="ye0ngeun"></a></td>
+    <td align="center"><a href="https://github.com/Woody-Hill"><img src="https://avatars.githubusercontent.com/Woody-Hill" width="150px;" alt="Woody-Hill"></a></td>
+    <td align="center"><a href="https://github.com/yeeunma"><img src="https://avatars.githubusercontent.com/yeeunma" width="150px;" alt="Sangyoon-Shin"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/oneul0"><b>김기훈</b></a></td>
     <td align="center"><a href="https://github.com/yeonju73"><b>박연주</b></a></td>
     <td align="center"><a href="https://github.com/Sangyoon-Shin"><b>신상윤</b></a></td>
+    <td align="center"><a href="https://github.com/BBZJUN"><b>강재준</b></a></td>
+    <td align="center"><a href="https://github.com/yonseeee"><b김세연</b></a></td>
+    <td align="center"><a href="https://github.com/ye0ngeun"><b이영은</b></a></td>
+    <td align="center"><a href="https://github.com/Woody-Hill"><b>김준우</b></a></td>
+    <td align="center"><a href="https://github.com/yeeunma"><b마예은</b></a></td>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
+    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
+    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
+    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
+    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
@@ -40,7 +55,7 @@
 <br />
 
 
-### 🟨 07-20 데일리 문제
+### 🟨 07-21 데일리 문제
 
 이 제목과 문제 링크를 수정해 `main` 브랜치에 push하면 `problem_solve/` 하위에 폴더 자동 생성
 
