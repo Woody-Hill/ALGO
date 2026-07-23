@@ -73,7 +73,7 @@
 
 이 제목과 문제 링크를 수정해 `main` 브랜치에 push하면 `problem_solve/` 하위에 폴더 자동 생성
 
-[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)  
+[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)  
 
 <br />
 
@@ -91,7 +91,7 @@
 3. 해당 문제 폴더에 자신의 소스코드를 업로드한다. 
 4. 이때 `commit 규칙`을 지킨다.
 5. 원본 저장소로 `Pull Request`를 보낸다. 
-6. 다른 사람들의 PR을 보고 자유롭게 코드 리뷰를 한다.
+6. 다른 사람들의 PR을 보고 자유롭게 코드 리뷰를 한다.(PR후 리뷰를 위해 Merge 금지, 익일 9:00 일괄 Merge)
 
 <br />
 <br />
